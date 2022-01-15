@@ -11,3 +11,4 @@ O projeto consiste em uma aplicação de Data Science do inicio ao fim, passando
 * [Airflow](https://airflow.apache.org)
 * [Anaconda](https://www.anaconda.com)
 * [PyCaret](https://pycaret.org)
+* [Streamlit](https://streamlit.io)
